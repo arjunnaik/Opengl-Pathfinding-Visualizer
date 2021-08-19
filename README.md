@@ -3,6 +3,8 @@ Pathfinding application which visualizes dijkstra's algorithm step by step using
 
 Download executable [here](https://github.com/amn-max/Opengl-Pathfinding-Visualizer/blob/master/Debug/graph.exe?raw=true)
 
+<img width="460" src="https://github.com/amn-max/OpenGL-Pathfinding-Visualizer/blob/master/demo/pathfinding_demo.gif?raw=true">
+
 ## Demo
 <p align="center">
   <img width="460" src="https://github.com/amn-max/OpenGL-Pathfinding-Visualizer/blob/master/demo/pathfinding_demo.gif?raw=true">
